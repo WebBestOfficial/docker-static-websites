@@ -1,5 +1,5 @@
 # Version: 0.0.1
-FROM node:14-alpine
+FROM node:14
 MAINTAINER Gideon van der Merwe "gideon@webbest.co.za"
 ENV REFRESHED_AT 2021-04-14
 
